@@ -21,7 +21,7 @@
         "doctrine/common": "~2.0"
     },
     "require-dev": {
-        "symfony/symfony": "^2.8.39|^3.4",
+        "symfony/symfony": "^2.8.39|^3.4|^4.0",
         "symfony/phpunit-bridge": "^2.8.39|^3.4",
         "doctrine/orm": "~2.5",
         "symfony/console": "^2.8.39|^3.4",
